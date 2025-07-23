@@ -1,6 +1,6 @@
 # Integer Data Structures Implementation
 
-A Java library implementing efficient data structures for integer values. More data structures may be added in the future.
+A Java implementation of efficient data structures for integer values. More data structures may be added in the future.
 This is done for educational purposes and to provide a foundation for more complex data manipulation tasks.
 
 ## Overview
